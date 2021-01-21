@@ -1,0 +1,4 @@
+﻿  test.c
+C:\Users\Wj\source\repos\hj_1-19\test.c(341,9): warning C4101: “i”: 未引用的局部变量
+C:\Users\Wj\source\repos\hj_1-19\test.c(341,6): warning C4101: “x”: 未引用的局部变量
+  hj_1-19.vcxproj -> C:\Users\Wj\source\repos\hj_1-19\Debug\hj_1-19.exe

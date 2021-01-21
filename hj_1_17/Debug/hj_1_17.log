@@ -1,0 +1,3 @@
+﻿  test.c
+C:\Users\Wj\source\repos\hj_1_17\test.c(398,18): warning C4101: “n”: 未引用的局部变量
+  hj_1_17.vcxproj -> C:\Users\Wj\source\repos\hj_1_17\Debug\hj_1_17.exe
