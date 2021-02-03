@@ -1,0 +1,5 @@
+﻿  test.c
+C:\Users\Wj\source\repos\hj_1_28\test.c(274,6): warning C4391: “void inp(student *,int)”: 不正确的内部函数返回类型，应为“int”
+C:\Users\Wj\source\repos\hj_1_28\test.c(274,6): warning C4392: “void inp(student *,int)”: 不正确的内部函数参数个数，应为“1”个参数
+C:\Users\Wj\source\repos\hj_1_28\test.c(275,1): error C2169: “inp”: 内部函数，不能定义
+C:\Users\Wj\source\repos\hj_1_28\test.c(289,5): error C2167: “inp”: 内部函数的实参太多

@@ -1,0 +1,8 @@
+﻿  test.c
+C:\Users\Wj\source\repos\hj_1_27\test.c(2,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\Wj\source\repos\hj_1_27\test.c(39,6): warning C4013: “mo”未定义；假设外部返回 int
+  tx.c
+C:\Users\Wj\source\repos\hj_1_27\tx.c(2,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\Wj\source\repos\hj_1_27\tx.c(92,10): warning C4098: “sc”:“void”函数返回值
+  正在生成代码...
+  hj_1_27.vcxproj -> C:\Users\Wj\source\repos\hj_1_27\Debug\hj_1_27_.exe
